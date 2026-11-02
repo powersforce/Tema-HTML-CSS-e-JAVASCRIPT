@@ -1,0 +1,14 @@
+:root {
+  --ice-white: #f1f5f9;
+  --dark-black: #212529;
+}
+
+.is-light {
+  background-color: var(--ice-white);
+  color: var(--dark-black);
+}
+
+.is-dark {
+  background-color: var(--dark-black);
+  color: var(--ice-white);
+}
